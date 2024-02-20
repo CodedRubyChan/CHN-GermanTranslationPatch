@@ -1,2 +1,4 @@
 
 *.cpk
+*.msb
+cpkmaker.out.csv
