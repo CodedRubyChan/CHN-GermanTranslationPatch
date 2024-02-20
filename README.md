@@ -3,6 +3,8 @@ German Translation for CHAOS;HEAD NoAH / Deutsche Übersetzung für CHAOS;HEAD N
 
 # Requirements / Voraussetzungen
 - CHAOS;HEAD NoAH Overhaul Patch from The Committee of Zero
+   
+  Download: [Overhaul Patch](https://github.com/CommitteeOfZero/chn-patch/releases)
 
 # Information
 ## DE
