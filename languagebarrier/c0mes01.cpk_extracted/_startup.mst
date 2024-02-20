@@ -31,7 +31,7 @@
 2900:Systemdaten Speichern?
 3000:Ja
 3100:Nein
-3200:Checke Systemdaten.
+3200:Überprüfe Systemdaten.
 3300:Systemdaten existieren bereits.
 3400:Systemdaten überschreiben?
 3500:Überschreiben
@@ -91,7 +91,7 @@
 8700:Systemdaten speichern?
 8800:OK
 8900:Abbrechen
-9000:Checke Systemdaten.
+9000:Überprüfe Systemdaten.
 9100:Systemdaten existieren bereits.
 9200:Systemdaten überschreiben?
 9300:Ja
@@ -116,7 +116,7 @@
 11200:und machen Sie Speicherplatz frei.
 11300:Fehlgeschlagen Trophäendaten zu laden.
 11400:Bitte schließen Sie das Spiel und versuchen es erneut.
-11500:Checke Systemdaten.
+11500:Überprüfe Systemdaten.
 11600:Wenn du Demo-Speicherdaten hast
 11601: kannst du Starten wo du aufgehört hast.
 11700:Sobald du die Systemdaten erstellst,
