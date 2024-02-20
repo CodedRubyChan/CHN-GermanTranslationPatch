@@ -1,0 +1,586 @@
+0:Kaputte Daten
+100:Keine Daten
+200:Spielzeit:
+300:Speicherzeit:
+400:/
+500::
+600:Nr.
+700:Gesamte Spielzeit
+800:m
+900:s
+1000:h
+1100:.
+1200:%
+1300:/
+1400:??/??
+1500:??????
+1600:Erreichtes Ende
+1700:Szenentitel
+1800:Album Achievement Rate
+1900:HGM
+2000:
+2100:“
+2200:”
+2300:Neu
+2400:Ungelesen
+2500:_
+2600:・
+2700:
+2800:Möchtest du vom Beginn dieses Kapitels starten?
+2900:Ja
+3000:Nein
+3100:
+3200:
+3300:
+3400:
+3500:
+3600:
+3700:
+3800:
+3900:
+4000:
+4100:
+4200:???
+4300:
+4400:
+4500:マップ移動
+4600: あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもや ゆ よらりるれろわ を んぁぃぅぇぉゃゅょっーがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽ
+4700: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+4800: 0123456789
+4900:
+5000:
+5100:
+5200:
+5300:
+5400:
+5500:
+5600:
+5700:
+5800:
+5900:
+6000:
+6100:
+6200:
+6300:
+6400:
+6500:
+6600:
+6700:
+6800:
+6900:
+7000:
+7100:
+7200:
+7300:
+7400:
+7500:
+7600:
+7700:
+7800:
+7900:
+8000:
+8100:
+8200:
+8300:
+8400:
+8500:
+8600:
+8700:
+8800:
+8900:
+9000:
+9100:
+9200:
+9300:
+9400:
+9500:
+9600:
+9700:
+9800:
+9900:
+10000:Zurück
+10010:Bestätigen
+10020:Sperre Daten
+10030:Abspielen
+10040:Stoppen
+10050:Ändere Abspielmodus
+10060:Scroll Text
+10070:Stimme abspielen
+10080:Standard
+10090:Stumm umschalten
+10100:Wechsel Seite
+10110:Nächstes CG
+10120:Disable Guide
+10130:Zoom
+20000:Kapitel 1
+20010:Augen in Augen
+20020:Kapitel 2
+20030:Klick Mich
+20040:Kapitel 3
+20050:Shogun
+20060:Kapitel 4
+20070:DI-sword
+20080:Kapitel 5
+20090:Wahnvorstellung
+20100:Kapitel 6
+20110:Noah
+20120:Kapitel 7
+20130:Psychopath
+20140:Kapitel 8
+20150:Ir2
+20160:Kapitel 9
+20170:Gigalomaniac
+20180:Kapitel 10
+20190:Stiller Himmel
+20200:Kapitel 10
+20210:Weinender Himmel
+20220:Kapitel 9 Rimi Route
+20230:Das Anima-Bild
+20240:Kapitel 8 Sena Route
+20250:Deus Ex Machina
+20260:Kapitel 8 Yua Route
+20270:Sonne & Mond
+20280:Kapitel 8 Kozue Route
+20290:Die Krankheit zum Schlachten
+20300:Kapitel 8 Ayase Route
+20310:Ein Blutvertrag zur Besiegelung unserer Sünde
+20320:Kapitel 7 Nanami Route
+20330:Tagtraum
+20340:Kapitel 10
+20350:Blauer Himmel
+25000:Kapitel 1
+25010:[Augen in Augen]
+25020:Kapitel 2
+25030:[Klick mich]
+25040:Kapitel 3
+25050:[Shogun]
+25060:Kapitel 4
+25070:[DI-sword]
+25080:Kapitel 5
+25090:[Wahnvorstellung]
+25100:Kapitel 6
+25110:[Noah]
+25120:Kapitel 7
+25130:[Psychopath]
+25140:Kapitel 8
+25150:[Ir2]
+25160:Kapitel 9
+25170:[Gigalomaniac]
+25180:Kapitel 10
+25190:[Stiller Himmel]
+25200:Kapitel 10
+25210:[Weinender Himmel]
+25220:Kapitel 9 Rimi Route
+25230:[Das Anima-Bild]
+25240:Kapitel 8 Sena Route
+25250:[Deus Ex Machina]
+25260:Kapitel 8 Yua Route
+25270:[Sonne & Mond]
+25280:Kapitel 8 Kozue Route
+25290:[Die Krankheit zum Schlachten]
+25300:Kapitel 8 Ayase Route
+25310:[Ein Blutvertrag zur Besiegelung unserer Sünde]
+25320:Kapitel 7 Nanami Route
+25330:[Tagtraum]
+25340:Kapitel 10
+25350:[Blauer Himmel]
+30000:Das Anima-Bild
+30010:Sonne & Mond
+30020:Deus Ex Machina
+30030:Die Krankheit zum Schlachten
+30040:Ein Blutvertrag zur Besiegelung unserer Sünde
+30050:Tagtraum
+30060:Stiller Himmel
+30070:Weinender Himmel
+30080:Blauer Himmel
+40000:Song
+40010:Dauer
+40020:Titel
+40030:??????
+40040:Artists
+40050:...
+40060:
+40070:
+40080:
+40090:M'kay, I'll letcha give these a listen. Only 'cause it's you, though!
+40100:M.I.L
+40110:Abo Takeshi
+40120:Silence
+40130:Isoe Toshimichi
+40140:Adventure
+40150:Abo Takeshi
+40160:Soliloquy
+40170:Abo Takeshi
+40180:Shibuya
+40190:Abo Takeshi
+40200:Delusion
+40210:Abo Takeshi
+40220:Fear
+40230:Isoe Toshimichi
+40240:Seira
+40250:Abo Takeshi
+40260:Girls
+40270:Abo Takeshi
+40280:Gradually Panic
+40290:Isoe Toshimichi
+40300:Tender Hearts
+40310:Abo Takeshi
+40320:Doubt
+40330:Abo Takeshi
+40340:Mysterious
+40350:Isoe Toshimichi
+40360:Virtual Reality
+40370:Abo Takeshi
+40380:I'm Rounder
+40390:Abo Takeshi
+40400:In the Ward
+40410:Abo Takeshi
+40420:Town Vanguard
+40430:Ohyama Yoh
+40440:Pity
+40450:Abo Takeshi
+40460:Detective
+40470:Abo Takeshi
+40480:Distorted Theory
+40490:Abo Takeshi
+40500:Truth and False
+40510:Abo Takeshi
+40520:White Out
+40530:Jimbo Shintaro
+40540:Shogun
+40550:Ohyama Yoh
+40560:Last Battle
+40570:Ohyama Yoh
+40580:Convert
+40590:Abo Takeshi
+40600:Final Kapitel
+40610:Abo Takeshi
+40620:Colors
+40630:Abo Takeshi
+40640:Real Link
+40650:Abo Takeshi
+40660:Silent Sky
+40670:Abo Takeshi
+40680:Find the Blue
+40690:Itou Kanako
+40700:Desire Blue Sky
+40710:Itou Kanako
+40720:Cry
+40730:Itou Kanako
+40740:Gladioul
+40750:FES cv.Sakakibara Yui
+40760:A Contract of Blood to Seal Our Sin
+40770:FES cv.Sakakibara Yui
+40780:Fake Me
+40790:Itou Kanako
+40800:Trust in Me
+40810:Sakihata Rimi cv.Kitamura Eri
+40820:Love Power
+40830:Nishijou Nanami cv.Miyazaki Ui
+40840:White Lily
+40850:Kusunoki Yua cv.Takahashi Chiaki
+40860:Rend the Darkness of My Heart
+40870:Kishimoto Ayase cv.Sakakibara Yui
+40880:Calling
+40890:Aoi Sena cv.Nabatame Hitomi
+40900:Notice My Small Voice
+40910:Orihara Kozue cv.Tsuji Ayumi
+40920:A Will
+40930:Itou Kanako
+40940:The Gospel of Hallelujah
+40950:FES cv.Sakakibara Yui
+40960:The Necklace of Vajrayana
+40970:FES cv.Sakakibara Yui
+40980:Fetishism Ark
+40990:Itou Kanako
+41000:Innocence
+41010:FES cv.Sakakibara Yui
+41020:Chaos Logic
+41030:Itou Kanako
+60000:
+60100:Takumi
+60200:Rimi
+60300:Mädchen
+60400:???
+60500:Nanami
+60600:Yua
+60700:Mädchen
+60800:Mia
+60900:Ayase
+61000:FES
+61100:Sena
+61200:Kozue
+61300:Austauschschüler
+61400:Seira
+61500:Misumi
+61600:Shogun
+61700:Ban
+61800:Mann
+61900:中年刑事
+62000:Suwa
+62100:青年刑事
+62200:Hazuki
+62300:Krankenschwester
+62400:Momose
+62500:Takashina
+62600:Doktor
+62700:Norose
+62800:Mann A
+62900:Hatano
+63000:Sena's Vater
+63100:Junge
+63200:Takumi
+63300:Neidhardt
+63400:藤田
+63500:安沢
+63600:Mann B
+63700:鷹木
+63800:Mann C
+63900:小沢
+64000:山井
+64100:松永
+64200:林原
+64300:倉持
+64400:老人
+64500:モニタの男A
+64600:猪鼻
+64700:モニタの男B
+64800:神尾
+64900:美菜子
+65000:Kozue's Mutter
+65100:母親
+65200:警官
+65300:刑事
+65400:オタク1
+65500:オタク2
+65600:ポーターA
+65700:ポーターB
+65800:ポーターC
+65900:キャスターA
+66000:キャスターB
+66100:キャスターC
+66200:コメンテーター1
+66300:コメンテーター2
+66400:ケータイアナウンス
+66500:主婦A
+66600:主婦B
+66700:女子A
+66800:女子B
+66900:女子C
+67000:女子D
+67100:女子E
+67200:女子F
+67300:生徒A
+67400:生徒B
+67500:生徒C
+67600:女子高生A
+67700:女子高生B
+67800:コンビニ店員
+67900:ショップ店員
+68000:シール機
+68100:ゾンビ風集団
+68200:デモ隊
+68300:リュック男
+68400:人々
+68500:大学生
+68600:太田
+68700:子供1
+68800:怖いお兄さんC
+68900:担任
+69000:救急隊員
+69100:数学教師
+69200:日直
+69300:機動隊
+69400:母親1
+69500:清掃員A
+69600:清掃員B
+69700:男子高校生A
+69800:男子高校生B
+69900:男子C
+70000:男子D
+70100:男子E
+70200:男性被災者A
+70300:看護師長
+70400:看護師A
+70500:祭参加者コール
+70600:祭参加者1
+70700:祭参加者2
+70800:祭参加者3
+70900:祭参加者4
+71000:祭参加者5
+71100:祭参加者6
+71200:祭参加者7
+71300:祭参加者8
+71400:精神科医
+71500:芸能レポーターA
+71600:芸能レポーターB
+71700:芸能レポーターC
+71800:若い女A
+71900:若い男A
+72000:若い男B
+72100:通行人たち
+72200:通行人女1
+72300:通行人女2
+72400:通行人女3
+72500:通行人女4
+72600:通行人男1
+72700:通行人男2
+72800:通行人A
+72900:通行人B
+73000:通行人C
+73100:通行人D
+73200:駅員
+73300:OL
+73400:Kozupii
+73500:Kozupii?
+73600:Rimi & Kozue
+73700:Rimi & Austauschschüler
+73800:Takumi & Sena
+73900:Yua & Mia
+74000:みんな
+74100:生徒たち
+80000:
+80100:Takumi
+80200:Rimi
+80300:Mädchen
+80400:???
+80500:Nanami
+80600:Yua
+80700:Mädchen
+80800:Mia
+80900:Ayase
+81000:FES
+81100:Sena
+81200:Kozue
+81300:Austauschschüler
+81400:Seira
+81500:Misumi
+81600:Shogun
+81700:Ban
+81800:Mann
+81900:中年刑事
+82000:Suwa
+82100:青年刑事
+82200:Hazuki
+82300:Krankenschwester
+82400:Momose
+82500:Takashina
+82600:Doktor
+82700:Norose
+82800:Mann A
+82900:Hatano
+83000:Sena's Vater
+83100:Junge
+83200:Takumi
+83300:Neidhardt
+83400:藤田
+83500:安沢
+83600:Man B
+83700:鷹木
+83800:Man C
+83900:小沢
+84000:山井
+84100:松永
+84200:林原
+84300:倉持
+84400:老人
+84500:モニタの男A
+84600:猪鼻
+84700:モニタの男B
+84800:神尾
+84900:美菜子
+85000:Kozue's Mother
+85100:母親
+85200:警官
+85300:刑事
+85400:オタク1
+85500:オタク2
+85600:ポーターA
+85700:ポーターB
+85800:ポーターC
+85900:キャスターA
+86000:キャスターB
+86100:キャスターC
+86200:コメンテーター1
+86300:コメンテーター2
+86400:ケータイアナウンス
+86500:主婦A
+86600:主婦B
+86700:女子A
+86800:女子B
+86900:女子C
+87000:女子D
+87100:女子E
+87200:女子F
+87300:生徒A
+87400:生徒B
+87500:生徒C
+87600:女子高生A
+87700:女子高生B
+87800:コンビニ店員
+87900:ショップ店員
+88000:シール機
+88100:ゾンビ風集団
+88200:デモ隊
+88300:リュック男
+88400:人々
+88500:大学生
+88600:太田
+88700:子供1
+88800:怖いお兄さんC
+88900:担任
+89000:救急隊員
+89100:数学教師
+89200:日直
+89300:機動隊
+89400:母親1
+89500:清掃員A
+89600:清掃員B
+89700:男子高校生A
+89800:男子高校生B
+89900:男子C
+90000:男子D
+90100:男子E
+90200:男性被災者A
+90300:看護師長
+90400:看護師A
+90500:祭参加者コール
+90600:祭参加者1
+90700:祭参加者2
+90800:祭参加者3
+90900:祭参加者4
+91000:祭参加者5
+91100:祭参加者6
+91200:祭参加者7
+91300:祭参加者8
+91400:精神科医
+91500:芸能レポーターA
+91600:芸能レポーターB
+91700:芸能レポーターC
+91800:若い女A
+91900:若い男A
+92000:若い男B
+92100:通行人たち
+92200:通行人女1
+92300:通行人女2
+92400:通行人女3
+92500:通行人女4
+92600:通行人男1
+92700:通行人男2
+92800:通行人A
+92900:通行人B
+93000:通行人C
+93100:通行人D
+93200:駅員
+93300:OL
+93400:Kozupii
+93500:Kozupii?
+93600:Rimi & Kozue
+93700:Rimi & Austauschschüler
+93800:Takumi & Sena
+93900:Yua & Mia
+94000:みんな
+94100:生徒たち
+110000:サインアウトされました。タイトル画面に戻ります。
+110010:ゲームパッドが外されました。ゲームパッドを接続してください。
+110020:ゲームを遊ぶためにはサインインしてください。

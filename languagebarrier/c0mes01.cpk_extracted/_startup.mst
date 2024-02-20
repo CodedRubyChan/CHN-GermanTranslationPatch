@@ -1,0 +1,185 @@
+0:End game and return to the dashboard?
+100:OK
+200:Abbrechen
+300:Speichere Systemdaten.
+400:Bitte schalten Sie das System nicht aus.
+500:Dieser Inhalt kann nicht gestartet werden
+600:bis die Installation abgeschlossen ist.
+700:Bitte warten Sie bis die Installation abgeschlossen ist.
+800:Dieser Inhalt kann nicht gestartet werden
+900:bis der Download abgeschlossen ist.
+1000:Bitte warten Sie bis der Download abgeschlossen ist.
+1100:Ungespeicherter Fortschritt geht verloren.
+1200:Zurück zum Titelmenü?
+1300:OK
+1400:Abbrechen
+1500:Ungespeicherter Fortschritt geht verloren.
+1600:Zurück zum Titelmenü?
+1700:OK
+1800:Abbrechen
+1900:Zurück zum Titelmenü?
+2000:OK
+2100:Abbrechen
+2200:Überspringe das “Warning Theater?”
+2300:OK
+2400:Abbrechen
+2500:Setze alle Einstellungen auf dieser Seite zurück?
+2600:Ja
+2700:Nein
+2800:Alle Einstellungen auf dieser Seite wurde zurückgesetzt.
+2850:Wechsle Sprache.
+2900:Systemdaten Speichern?
+3000:Ja
+3100:Nein
+3200:Checke Systemdaten.
+3300:Systemdaten existieren bereits.
+3400:Systemdaten überschreiben?
+3500:Überschreiben
+3600:Abbrechen
+3700:Speichere Systemdaten.
+3800:Bitte schalten sie das Gerät nicht aus.
+3900:Fehlgeschlagen die Systemdaten zu speichern.
+4000:Erneut versuchen?
+4100:Ja
+4200:Nein
+4300:Systemdaten sind fehlerhaft.
+4400:Beim überschreiben werden fehlerhafte Daten gelöscht.
+4500:Fehlerhafte Daten überschreiben?
+4600:Überschreiben
+4700:Abbrechen
+4800:Diese Daten laden?
+4900:Laden
+5000:Nicht laden
+5100:Dieser Spielstand kann nicht geladen werden
+5200:bis die Installation abgeschlossen ist.
+5300:Bitte warten Sie bis die Installation abgeschlossen ist.
+5400:Dieser Spielstand kann nicht geladen werden
+5500:bis der Download abgeschlossen ist.
+5600:Bitte warten Sie bis der Download abgeschlossen ist.
+5700:Diese Daten laden?
+5800:Ungespeicherter Fortschritt geht verloren.
+5900:Laden
+6000:Nicht Laden
+6100:Alle Spielstände sind gesperrt.
+6200:Wenn du alle Spielstände sperrst,
+6201:kannst du nicht mehr Schnellspeichern.
+6300:Wenn du Schnellspeichern willst,
+6400:entsperre nicht benutzte Spielstände.
+6500:Alle Spielstände sind gesperrt.
+6600:Wenn du alle Spielstände sperrst,
+6601:kannst du nicht mehr Schnellspeichern.
+6700:Wenn du Schnellspeichern willst,
+6800:entsperre nicht benutzte Spielstände.
+6900:Spielstand existiert bereits.
+7000:Beim überschreiben werden die vorrigen Daten gelöscht.
+7100:Diesen Spielstand überschreiben?
+7200:Überschreiben
+7300:Abbrechen
+7400:Dieser Spielstand ist gesperrt.
+7500:Wenn du diese überschreiben willst, bitte entsperre sie.
+7600:Ein kaputter Spielstand existiert.
+7700:Beim überschreiben werden fehlerhafte Daten gelöscht.
+7800:Diesen Spielstand überschreiben?
+7900:Überschreiben
+8000:Abbrechen
+8100:Speichern. Bitte schalten Sie das System nicht aus.
+8200:Fehlgeschlagen Spielstand zu speichern.
+8300:Erneut versuchen?
+8400:Ja
+8500:Nein
+8600:Speichern. Bitte schalten Sie das System nicht aus.
+8700:Systemdaten speichern?
+8800:OK
+8900:Abbrechen
+9000:Checke Systemdaten.
+9100:Systemdaten existieren bereits.
+9200:Systemdaten überschreiben?
+9300:Ja
+9400:Nein
+9500:Speichere Systemdaten.
+9600:Bitte schalten sie das Gerät nicht aus.
+9700:Fehlgeschlagen Systemdaten zu speichern.
+9800:Erneut Versuchen?
+9900:Ja
+10000:Nein
+10100:Systemdaten sind fehlerhaft.
+10200:Beim überschreiben werden fehlerhafte Daten gelöscht.
+10300:Fehlerhafte Daten überschreiben?
+10400:Überschreiben
+10500:Abbrechen
+10600:Überprüfe Trophäen.
+10700:Bitte schalten Sie das System nicht aus.
+10800:Nicht genügend Speicherplatz auf der Speicherkarte.
+10900:Mindestens ~~ MB Speicherplatz benötigt.
+11000:Trophäen- und Systemdaten.
+11100:Bitte schließen Sie das Spiel
+11200:und machen Sie Speicherplatz frei.
+11300:Fehlgeschlagen Trophäendaten zu laden.
+11400:Bitte schließen Sie das Spiel und versuchen es erneut.
+11500:Checke Systemdaten.
+11600:Wenn du Demo-Speicherdaten hast
+11601: kannst du Starten wo du aufgehört hast.
+11700:Sobald du die Systemdaten erstellst,
+11800:kannst du keine Demo-Speicherdaten importieren.
+11900:Wenn du "Nein" auswählst,
+11901:wirst du die Demo-Speicherdaten nicht importieren.
+12000:Speicherdaten aus der Demo-Version importieren?
+12100:Ja
+12200:Nein
+12300:Überprüfe Demo-Speicherdaten.
+12400:Demo-Speicherdaten nicht gefunden.
+12500:Demo-Systemdaten sind fehlerhaft.
+12600:Nicht möglich die Speicherdaten zu importieren.
+12700:Demo-Speicherdaten gefunden.
+12800:Du kannst die Speicherdaten in die Vollversion importieren.
+12900:Speicherdaten aus der Demo-Version importieren?
+13000:Ja
+13100:Nein
+13200:Lade Demo-Speicherdaten.
+13300:Fehlgeschlagen Speicherdaten zu importieren.
+13400:Speicherdaten erfolgreich importiert.
+13500:Lade Systemdaten.
+13600:Systemdaten nicht gefunden.
+13700:Systemdaten werden nun erstellt.
+13800:Erstelle Systemdaten.
+13900:Bitte schalten Sie das System nicht aus.
+14000:Systemdaten sind fehlerhaft.
+14100:Die Systemdaten werden nun repariert.
+14200:Repariere Systemdaten.
+14300:Bitte schalten Sie das System nicht aus.
+14400:Diese Systemdaten gehören einem anderen Nutzer.
+14500:Du wirst hiermit keine Trophäen sammeln können.
+14501:
+14502:Lade Systemdaten.
+14600:Systemdaten sind fehlerhaft.
+14700:Es wird überschrieben beim nächsten speichern der Systemdaten.
+14701:(Dein voriger Spielstand geht verloren.)
+14800:Fehlgeschlagen Systemdaten zu laden.
+14900:Bitte schließen Sie das Spiel und versuchen es erneut.
+15000:Fehlgeschlagen Systemdaten zu erstellen.
+15100:Bitte schließen Sie das Spiel und versuchen es erneut.
+15200:Bitte wählen Sie die Sprache aus
+15300:
+15400:Englisch
+15500:Japanisch
+20000:Du hast keine Berechtigungen um diesen Spielstand zu öffnen.
+20001:Bitte warten Sie bis der Inhalt runtergeladen wurde.
+21200:Das Spiel schließen?
+21300:Ungespeicherter Fortschritt geht verloren.
+21400:Ja
+21500:Nein
+30000:
+30001:
+30002:
+30003:
+30004:
+30005:
+30006:
+30007:
+30008:
+30009:
+30010:
+30011:
+30012:
+30013:
+30014:
